@@ -26,3 +26,5 @@
 # IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 r_dir_file(surfaceflinger, vendor_sysfs_qfprom)
+
+binder_call(surfaceflinger, vendor_hal_qspmhal_default)
